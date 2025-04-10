@@ -1,7 +1,5 @@
 # Document Assistant
 
-*This application was developed for an interview with CriticalRiver.*
-
 Document Assistant is a Python application that analyzes contract documents and provides a Q&A interface, allowing users to ask questions about the document content and receive accurate answers.
 
 ## Features
@@ -205,3 +203,6 @@ This project is open source.
 - HuggingFace for providing access to open-source language models
 - Streamlit for the interactive web framework
 - FAISS for efficient similarity search capabilities
+
+*This application was developed for an interview with CriticalRiver.*
+
