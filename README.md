@@ -156,6 +156,11 @@ document-assistant/
 │   └── utils.py            # Helper functions
 ├── data/
 │   └── processed/          # Directory for processed documents
+├── tests/
+│   ├── test_document_processor.py
+│   ├── test_embeddings.py
+│   ├── test_llm_manager.py
+│   └── test_qa_engine.py
 ├── requirements.txt        # Dependencies
 └── README.md               # Documentation
 ```
