@@ -190,7 +190,7 @@ The application uses TinyLlama (1.1B parameters) by default for faster loading a
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source.
 
 ## Acknowledgments
 
