@@ -185,14 +185,8 @@ The application uses TinyLlama (1.1B parameters) by default for faster loading a
   - Improved chunking strategies
   - Integration with more advanced local models
   - Caching mechanisms to improve performance
+- create a test cases for major modules to verify the functionlaity. 
 
-## Test Suite
-
-The project includes unit tests for all major components:
-- These tests verify the functionality of each module
-- Not required to run the application, but helpful for verifying implementation
-- Satisfies the project requirement for at least 5 unit tests
-- Run tests with `pytest` if needed
 
 ## License
 
