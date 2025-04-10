@@ -185,7 +185,11 @@ The application uses TinyLlama (1.1B parameters) by default for faster loading a
   - Improved chunking strategies
   - Integration with more advanced local models
   - Caching mechanisms to improve performance
-- create a test cases for major modules to verify the functionlaity. 
+
+ ## Test
+``` pytest  #this runs the test for all the test files and give you the test results ```
+``` pytest -v  #use the -v flag for more verbose output that shows the name of each test```
+``` pytest -v tests/test_document_processor.py   #use for specific script```
 
 
 ## License
