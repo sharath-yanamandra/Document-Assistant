@@ -1,0 +1,27 @@
+# Document processing
+PyPDF2==3.0.1
+langchain==0.1.12
+
+# Embeddings and vector search
+sentence-transformers==2.5.1
+faiss-cpu==1.8.0
+
+# LLM integration
+transformers==4.38.2
+accelerate==0.27.2
+bitsandbytes==0.43.0
+torch>=2.2.1
+
+# Frontend
+streamlit==1.32.2
+
+# Testing
+pytest==7.4.3
+
+# Code quality
+black==23.12.1
+flake8==7.0.0
+
+# Utilities
+numpy==1.26.4
+tqdm==4.66.2
