@@ -156,11 +156,6 @@ document-assistant/
 │   ├── llm_manager.py      # LLM integration
 │   ├── qa_engine.py        # Q&A functionality
 │   └── utils.py            # Helper functions
-├── tests/
-│   ├── test_document_processor.py
-│   ├── test_embeddings.py
-│   ├── test_llm_manager.py
-│   └── test_qa_engine.py
 ├── data/
 │   └── processed/          # Directory for processed documents
 ├── requirements.txt        # Dependencies
