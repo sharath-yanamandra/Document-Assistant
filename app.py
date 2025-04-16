@@ -188,4 +188,4 @@ else:
 
 # Footer
 st.divider()
-st.markdown("*welcome to the document assistance system. This application was designed for an interview with CriticalRiver.*")
+st.markdown("*welcome to the document assistance system.*")
