@@ -209,5 +209,4 @@ This project is open source.
 - Streamlit for the interactive web framework
 - FAISS for efficient similarity search capabilities
 
-*This application was developed for an interview with CriticalRiver.*
 
